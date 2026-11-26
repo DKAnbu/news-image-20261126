@@ -100,7 +100,7 @@ def render_chronicle_canvas() -> Image.Image:
     
     # Official Verification Ribbon
     ctx.rectangle([(24, 76), (999, 108)], fill=ACCENT_NAVY)
-    ctx.text((512, 92), "OFFICIAL DATE VERIFICATION: 56 CONFIRMED WORLD STORIES • ALL OCCURRED NOV 26, 2026", fill=WHITE, font=font_regular, anchor="mm")
+    ctx.text((512, 92), "OFFICIAL DATE VERIFICATION: 56 CONFIRMED WORLD STORIES • ALL REPORTED NOV 26, 2026", fill=WHITE, font=font_regular, anchor="mm")
     
     # Lead Stories Headline Section (4 Cards)
     ctx.text((24, 126), "TOP WORLD DEVELOPMENTS — 26 NOVEMBER 2026", fill=ACCENT_CRIMSON, font=font_regular)
