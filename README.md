@@ -2,9 +2,9 @@
 
 Front page broadsheet visual summary of world news on Thursday, 26 November 2026.
 
-[![MakeFun Entry](https://img.shields.io/badge/make.fun-news--image--20261126-blue)](https://make.fun/c/news-image-20261126)
-[![Stories Verified](https://img.shields.io/badge/stories%20verified-56%2F56%20PASS-success)](https://make.fun)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/DKAnbu/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/DKAnbu/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 ## Overview
 This repository contains the deterministic generation code and verified front-page broadsheet artifact (`entry.png`) summarizing world events on **26 November 2026**.
